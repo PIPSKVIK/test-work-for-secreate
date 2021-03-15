@@ -104,7 +104,7 @@ export default {
   flex-direction: column;
   align-items: center;
   &__date {
-    font-size: 10px;
+    font-size: 12px;
   }
   &__all-button {
     display: flex;
